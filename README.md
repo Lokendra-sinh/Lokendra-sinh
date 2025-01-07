@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey there
 
-<!--
-**Lokendra-sinh/Lokendra-sinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm not really great at writing, but here's everything about me
 
-Here are some ideas to get you started:
+I'm a curious and obsessed engineer.
+I like solving problems with my computer knowledge and skills
+I love every aspect of engineering. Be it manipulating pixels or working with bits.
+I approach things through first principles thinking, trying to remove the abstraction as much as possible to understand the low-level stuff
+I like reading technical papers and implementing snippets from it
+I specifically enjoy working with Mathematics and Animations
+I'm currently exploring Vector Databases, Low level stuff, and Mathematis behind animations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about "WHY" more than anything :)
